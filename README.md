@@ -1,6 +1,6 @@
 <h1 align="center">Hello There <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm RAPHAEL BASSANI</h1>
 
-<img src="giphy.webp" height="300px" align="right"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRxMXM1MGd1bXVoNHg5MnJ6c2psN3Zlamc3cXh4M3JzMmE4ZjZsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" height="300px" align="right"/>
 
 - 🌱 I’m currently learning about: **App internationalization**<br><br>
 - 💬 Ask me about: **Flutter, Dart**<br><br>
